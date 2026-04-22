@@ -1,0 +1,7 @@
+{
+  "repoURL": "https://github.com/paramsdas/test-gitops-repo",
+  "drySha": "8103c97bf9fc06481ceaaed5a3dab87106d289e1",
+  "author": "Paramvir Das <paramsdas@proton.me>",
+  "date": "2026-04-22T18:27:30Z",
+  "subject": "added test-helm-chart"
+}

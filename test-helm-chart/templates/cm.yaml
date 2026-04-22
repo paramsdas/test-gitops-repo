@@ -1,0 +1,10 @@
+kind: # https://kubernetes.io/docs/concepts/configuration/configmap/
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: myconfig
+  namespace: default
+data:
+  my_key: my_value
+---
+

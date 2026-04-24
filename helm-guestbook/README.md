@@ -5,6 +5,6 @@ To hydrate the manifests in this repository, run the following commands:
 ```shell
 git clone https://github.com/paramsdas/test-gitops-repo
 # cd into the cloned directory
-git checkout 997d81483a48f1dfc0c3e2765054b507923babd6
+git checkout 948f0fb0bc38dc9716b830230c666b248ecd68af
 helm template . --name-template test-app --namespace aayojak --include-crds
 ```

@@ -1,7 +1,7 @@
 {
   "repoURL": "https://github.com/paramsdas/test-gitops-repo",
-  "drySha": "997d81483a48f1dfc0c3e2765054b507923babd6",
+  "drySha": "948f0fb0bc38dc9716b830230c666b248ecd68af",
   "author": "Paramvir Das <paramsdas@proton.me>",
-  "date": "2026-04-22T23:41:06Z",
-  "subject": "added new cm"
+  "date": "2026-04-24T22:24:05Z",
+  "subject": "update value"
 }

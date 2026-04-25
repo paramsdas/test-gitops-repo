@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: ConfigMap
 metadata:
-  name: myconfig5
+  name: myconfig7
 data:
   my_key: my_value
 ---

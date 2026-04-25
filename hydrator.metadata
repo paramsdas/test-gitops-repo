@@ -1,7 +1,7 @@
 {
   "repoURL": "https://github.com/paramsdas/test-gitops-repo",
-  "drySha": "9bbbcd91765fabb6a9c9a5f5dfbe6d9a0a12c02c",
+  "drySha": "42c32258fba93f81ccb505be8692da9f3c83349e",
   "author": "Paramvir Das <paramsdas@proton.me>",
-  "date": "2026-04-25T01:28:28Z",
-  "subject": "updated name to force collision"
+  "date": "2026-04-25T01:36:02Z",
+  "subject": "create collision so manifests are not identical anymore"
 }

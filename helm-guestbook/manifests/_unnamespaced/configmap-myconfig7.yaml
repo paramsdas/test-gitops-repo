@@ -3,4 +3,4 @@ data:
     my_key: my_value
 kind: ConfigMap
 metadata:
-    name: myconfig5
+    name: myconfig7

@@ -4,6 +4,6 @@ metadata:
   name: myconfig4
   namespace: aayojak
 data:
-  my_key: my_value_10
+  my_key: my_value_11
 ---
 

@@ -1,6 +1,6 @@
 {
   "repoURL": "https://github.com/paramsdas/test-gitops-repo",
-  "drySha": "fa9a5ef58fba507ab693b946cfe95751608c3e92",
+  "drySha": "21827f4f0bffa57481bc0993f956c28be01208bf",
   "commands": [
     "helm template . --name-template test-app --namespace aayojak --include-crds"
   ]

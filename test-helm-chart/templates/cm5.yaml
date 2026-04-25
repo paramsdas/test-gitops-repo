@@ -3,6 +3,6 @@ kind: ConfigMap
 metadata:
   name: myconfig7
 data:
-  my_key: my_value
+  my_key: my_value_1
 ---
 

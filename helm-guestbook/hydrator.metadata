@@ -4,5 +4,5 @@
   "commands": [
     "helm template . --name-template test-app --namespace aayojak --include-crds"
   ],
-  "hydrationFormat": "split"
+  "hydrationFormat": "simple"
 }

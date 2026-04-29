@@ -3,6 +3,5 @@
   "drySha": "21827f4f0bffa57481bc0993f956c28be01208bf",
   "commands": [
     "helm template . --name-template test-app --namespace aayojak --include-crds"
-  ],
-  "hydrationFormat": "simple"
+  ]
 }

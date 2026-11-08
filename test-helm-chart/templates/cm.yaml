@@ -6,6 +6,5 @@ metadata:
 data:
   my_key: my_value
   my_new_key: my_new_value
-  abc: def
 ---
 

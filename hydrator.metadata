@@ -1,7 +1,7 @@
 {
   "repoURL": "https://github.com/paramsdas/test-gitops-repo",
-  "drySha": "21827f4f0bffa57481bc0993f956c28be01208bf",
+  "drySha": "f405b7decc9d335213944d71406bd67e9b5a268c",
   "author": "Paramvir Das <paramsdas@proton.me>",
-  "date": "2026-04-25T01:48:47Z",
-  "subject": "removed unnecessary cms"
+  "date": "2026-11-08T13:08:15Z",
+  "subject": "updated apiversion"
 }

@@ -1,7 +1,7 @@
 {
   "repoURL": "https://github.com/paramsdas/test-gitops-repo",
-  "drySha": "f405b7decc9d335213944d71406bd67e9b5a268c",
+  "drySha": "a4e71663c0f03e81e94c66feca693a7968876563",
   "author": "Paramvir Das <paramsdas@proton.me>",
-  "date": "2026-11-08T13:08:15Z",
-  "subject": "updated apiversion"
+  "date": "2026-11-08T17:42:12Z",
+  "subject": "dummy change to trigger hydration"
 }

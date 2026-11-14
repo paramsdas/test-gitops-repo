@@ -1,25 +1,25 @@
 apiVersion: v1
 data:
   my_key: my-test-value
-  namespace: test
+  namespace: default
 kind: ConfigMap
 metadata:
-  name: myconfig
+  name: myconfig-default
 ---
 apiVersion: v1
 data:
   my_key: my-test-value
-  namespace: test
+  namespace: default
 kind: ConfigMap
 metadata:
-  name: myconfig
+  name: myconfig-default
   namespace: test-ns-1
 ---
 apiVersion: v1
 data:
   my_key: my-test-value
-  namespace: test
+  namespace: default
 kind: ConfigMap
 metadata:
-  name: myconfig
+  name: myconfig-default
   namespace: test-ns-2

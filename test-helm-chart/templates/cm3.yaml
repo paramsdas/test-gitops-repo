@@ -1,9 +1,0 @@
-apiVersion: v1
-kind: ConfigMap
-metadata:
-  name: myconfig3
-  namespace: aayojak
-data:
-  my_key: my_value_8
----
-

@@ -1,7 +1,7 @@
 {
   "repoURL": "https://github.com/paramsdas/test-gitops-repo",
-  "drySha": "88b9cdad746f88ea2329505b6c5ca77d3ed20c32",
+  "drySha": "0d0f4ce0183d04dd098e27696295940bc5d75dd1",
   "author": "Paramvir Das <82286457+paramsdas@users.noreply.github.com>",
-  "date": "2026-11-14T18:33:17Z",
+  "date": "2026-11-14T18:36:45Z",
   "subject": "prepare demo"
 }

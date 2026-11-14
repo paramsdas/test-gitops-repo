@@ -9,17 +9,15 @@ metadata:
 apiVersion: v1
 data:
   my_key: my-test-value
-  namespace: default
 kind: ConfigMap
 metadata:
-  name: myconfig-default
+  name: myconfig
   namespace: test-ns-1
 ---
 apiVersion: v1
 data:
   my_key: my-test-value
-  namespace: default
 kind: ConfigMap
 metadata:
-  name: myconfig-default
+  name: myconfig-2
   namespace: test-ns-2

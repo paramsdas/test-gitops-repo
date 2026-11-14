@@ -1,0 +1,7 @@
+apiVersion: v1
+data:
+    my_key: my-test-value
+kind: ConfigMap
+metadata:
+    name: configmap-test-ns-1
+    namespace: test-ns-1

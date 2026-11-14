@@ -4,6 +4,5 @@ metadata:
   name: configmap-no-explicit-ns
 data:
   my_key: {{ $.Values.myValue }}
-  namespace: {{ $.Release.Namespace }}
 ---
 

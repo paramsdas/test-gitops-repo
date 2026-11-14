@@ -1,7 +1,7 @@
 {
   "repoURL": "https://github.com/paramsdas/test-gitops-repo",
-  "drySha": "2e8f1685b66d102d4c991f45a54321a480789704",
+  "drySha": "185cdf3a9a746dbdeb5def8956063c73b9a73311",
   "author": "Paramvir Das <82286457+paramsdas@users.noreply.github.com>",
-  "date": "2026-11-14T20:04:20Z",
-  "subject": "removed namespace from cm data"
+  "date": "2026-11-14T20:07:40Z",
+  "subject": "added configmap with default namespace explicitly specified"
 }

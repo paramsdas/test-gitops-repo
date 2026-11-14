@@ -1,7 +1,0 @@
-apiVersion: v1
-data:
-    my_key: my-test-value
-    namespace: default
-kind: ConfigMap
-metadata:
-    name: configmap-no-explicit-ns

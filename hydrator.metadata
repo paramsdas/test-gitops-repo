@@ -1,7 +1,8 @@
 {
   "repoURL": "https://github.com/paramsdas/test-gitops-repo",
-  "drySha": "8b37d222b1c03c968c167212f771ff99d81a2274",
+  "drySha": "58a61e13b106608393d673575e89b951bb5fa664",
   "author": "Paramvir Das <82286457+paramsdas@users.noreply.github.com>",
-  "date": "2026-11-14T18:38:37Z",
-  "subject": "prepare demo"
+  "date": "2026-11-14T19:36:24Z",
+  "subject": "Revert \"added configmap with default namespace explicitly specified\"",
+  "body": "This reverts commit 3265119bbaf6311856bb99ddb8421c039592ab67.\n"
 }

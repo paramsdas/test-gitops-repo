@@ -4,14 +4,14 @@ data:
   namespace: default
 kind: ConfigMap
 metadata:
-  name: myconfig-default
+  name: configmap-no-explicit-ns
 ---
 apiVersion: v1
 data:
   my_key: my-test-value
 kind: ConfigMap
 metadata:
-  name: myconfig
+  name: configmap-test-ns-1
   namespace: test-ns-1
 ---
 apiVersion: v1
@@ -19,5 +19,5 @@ data:
   my_key: my-test-value
 kind: ConfigMap
 metadata:
-  name: myconfig-2
+  name: configmap-test-ns-2
   namespace: test-ns-2

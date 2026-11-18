@@ -1,8 +1,8 @@
 apiVersion: v1
 kind: ConfigMap
 metadata:
-  name: /../test-attack
-  namespace: test-ns-2
+  name: variant-2
+  namespace: test-ns-2/../abc
 data:
   my_key: {{ $.Values.myValue }}
 ---

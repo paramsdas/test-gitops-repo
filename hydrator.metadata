@@ -1,7 +1,7 @@
 {
   "repoURL": "https://github.com/paramsdas/test-gitops-repo",
-  "drySha": "e82e36861014c547417d0672132beb623cf70101",
+  "drySha": "306e2fe29af8bd192d67619afe6c657658a40ce6",
   "author": "Paramvir Das <82286457+paramsdas@users.noreply.github.com>",
-  "date": "2026-11-18T22:31:05Z",
-  "subject": "removed custom resource"
+  "date": "2026-11-18T22:34:07Z",
+  "subject": "added new version to damage data integrity"
 }

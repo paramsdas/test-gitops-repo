@@ -3,5 +3,5 @@ data:
   my_key: my-test-value
 kind: ConfigMap
 metadata:
-  name: /../test-attack
-  namespace: test-ns-2
+  name: variant-2
+  namespace: test-ns-2/../abc
